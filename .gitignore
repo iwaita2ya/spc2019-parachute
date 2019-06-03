@@ -1,3 +1,9 @@
+.idea
+.pioenvs
+.piolibdeps
+CMakeListsPrivate.txt
+cmake-build-debug
+
 # Compiled Object files
 *.slo
 *.lo
